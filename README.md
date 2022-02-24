@@ -10,7 +10,7 @@ class Koji(ReadMe):
   def __init__(self):
     self.username = "Koji"
     self.contact = {
-      "Discord": "Koji#1337"
+      "Discord": "fr$do#1500"
      }
      self.projects = {
       "public": {
@@ -19,7 +19,7 @@ class Koji(ReadMe):
       },
       "private": {
         "total": 2,
-        "location": "discord.gg/highest"
+        "location": "discord.gg/1500"
     }
     self.os = "Windows"
 
